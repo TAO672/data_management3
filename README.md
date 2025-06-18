@@ -1,4 +1,4 @@
-
+![](1.png)
 # MovieLens Recommendation System Project
 
 This project is part of a big data assignment using Spark and Cassandra to analyze the MovieLens dataset (`u.data`, `u.item`, `u.user`). The tasks involve data loading, cleaning, processing, and some basic analysis using PySpark in Zeppelin.
